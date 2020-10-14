@@ -1,2 +1,2 @@
 # training-materials-EC
-All my bioinformatics training materials
+Some of my bioinformatics training materials
